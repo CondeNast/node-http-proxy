@@ -1,5 +1,5 @@
 {
-  "name": "http-proxy",
+  "name": "@condenast/http-proxy",
   "version": "1.11.1",
   "repository": {
     "type": "git",
